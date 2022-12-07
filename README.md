@@ -1,34 +1,23 @@
-# Docs starter
+# Medusa
 
-This repository contains the base platform to build a docs site from. This platform is built using Hugo and started life in the [Doks repo by H-enk](https://github.com/h-enk/doks). This repo is designed to be used as a template and submodule. Follow through the [Create your project](#create-your-project) guide to set up everything properly.
+This repo contains the documentation and website-builder for docs.medusa.io.
 
 ![A screenshot of one of the docs pages within this repo.](./static/images/site-screenshot.png)
 
-## Create your project
+## Run locally
 
-You can create your project quicking by following these steps.
+To run a local copy of this website, follow these steps.
 
 1. Clone this repo:
 
     ```shell
-    git clone https://github.com/protocol/docs-starter
+    git clone https://github.com/medusa-network/docs
     ```
 
-1. Move into the `docs-starter` directory and install the dependencies:
+1. Move into the `docs` directory and run the local server:
 
     ```shell
-    cd docs-starter && npm install
-    ```
-
-1. Done!
-
-## Run locally
-
-Once you have set up your project, you can start a local server by running the following steps.
-
-1. Run the local server with NPM:
-
-    ```shell
+    cd docs
     npm run start
     ```
 
@@ -115,14 +104,6 @@ npm run create -- --kind page basics/install/windows
 
 ## Open-source projects used
 
-- [Doks](https://getdoks.org/) by [Henk Verlinde](https://henkverlinde.com/)
 - [CSS Tooltip](https://github.com/alterebro/css-tooltip) by [alterebro](https://github.com/alterebro)
-
-## Project todos
-
-This is the stuff we're still working on.
-
-- [ ] Add in better pictures of dogs.
-- [ ] Automate favicon creation.
-- [ ] Automate adding item to topbar using `npm run create ...` commands.
-- [ ] Add setting to use image or text for topbar nav logo.
+- [Docs Starter](https://github.com/protocol/docs-starter) by [Protocol Labs](https://protocol.ai)
+- [Doks](https://getdoks.org/) by [Henk Verlinde](https://henkverlinde.com/)
