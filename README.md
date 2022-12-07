@@ -2,7 +2,7 @@
 
 This repo contains the documentation and website-builder for docs.medusa.io.
 
-![A screenshot of one of the docs pages within this repo.](./static/images/site-screenshot.png)
+![A screenshot of one of the docs pages within this repo.](./images/website-screenshot.png)
 
 ## Run locally
 
@@ -32,7 +32,6 @@ This is how the website is organized in terms of menus and pages:
 1. Level 2 is the dropdown sections on the sidebar navigation.
 1. Level 3 is the pages below the dropdown sections in the sidebar navigation.
 1. Level 4 is the table of contents on the right of the page. This is automatically generated on each page and is not manually configurable.
-Lorem ipsum.
 
 ### Commands
 
