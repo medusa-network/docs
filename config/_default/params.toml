@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Docs Website"
+title = "Medusa"
 titleSeparator = "-"
-titleAddition = "A simple documentation platform."
-description = "This documentation platform helps teams write, build, and deploy a simple documentation site that's easy for users to navigate."
+titleAddition = "A short tagline explaining what Medusa is."
+description = "A short description of what this site is for, and what Medusa is."
 
 ## Documentation
 # docsVersion = "0.3"
